@@ -1,6 +1,6 @@
 ## Tensorflow cats verses dogs example for the Jetson TX1
 
-This code has been forked from https://github.com/kevin28520/My-TensorFlow-tutorials with slight modification for the TX1
+This code was forked from https://github.com/kevin28520/My-TensorFlow-tutorials
 
 Download the data from https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
 
