@@ -7,6 +7,7 @@ Download the data from https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-editi
 Modify the below variables in training.py 
 
 ```train_dir```
+
 ```logs_train_dir```
 
 To execute this code simple run
