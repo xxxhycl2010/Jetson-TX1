@@ -4,4 +4,4 @@ This code has been forked from https://github.com/kevin28520/My-TensorFlow-tutor
 
 To execute this code simple run
 
-'''python training.py'''
+```python training.py```
